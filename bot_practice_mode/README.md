@@ -4,4 +4,4 @@ This plugin aims to keeps players busy with a dynamic amount of bots when there 
 
 It is possible for other players who join the server, after the practice mode has already enabled itself, to join the team with humans and fight against bots. However, if a player joins into the bots' team, then the practice mode gets disabled immediately (and bots kicked), since now there is at least 1 real human on both teams and the server can function normally.
 
-See https://forums.alliedmods.net/showthread.php?t=311486 for further information.
+See https://forums.alliedmods.net/showthread.php?t=311491 for further information.
